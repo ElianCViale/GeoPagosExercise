@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoPagosExercise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="public_key_mercado_pago">TEST-df5e006a-5913-46a3-b9c5-f338c8a0cce1</string>
+    <string name="amount">Monto</string>
+    <string name="next">Continuar</string>
+    <string name="confirm">Confirmar</string>
+
+    <string name="f_amount">Amount</string>
+    <string name="f_payment_method">PaymentMethod</string>
+    <string name="f_card_issuer">CardIssuer</string>
+    <string name="f_installments">Installments</string>
+    <string name="f_payment">Payment</string>
+
+    <string name="title_amount">Ingrese el monto a abonar</string>
+    <string name="title_payment_methods">Seleccione método de pago</string>
+    <string name="title_card_issuer">Seleccione entidad distribuidora de tarjeta</string>
+    <string name="title_installmenst">Indique cantidad de cuotas</string>
+    <string name="title_succes_view">Vista Previa</string>
+
+    <string name="tv_item_installments">Cuotas:</string>
+    <string name="tv_item_rate">Interés:</string>
+    <string name="tv_item_amount_installents">Monto de Cuotas:</string>
+    <string name="tv_item_original_amount">Monto Original:</string>
+    <string name="tv_item_final_amount">Monto Final:</string>
+    <string name="tv_item_bank">Banco:</string>
+    <string name="tv_item_payment_method">Método de Pago:</string>
+
+</resources>

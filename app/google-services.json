@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64858244197",
+    "firebase_url": "https://geopagosexercise.firebaseio.com",
+    "project_id": "geopagosexercise",
+    "storage_bucket": "geopagosexercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64858244197:android:878e4d3851611f5e",
+        "android_client_info": {
+          "package_name": "com.example.geopagosexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64858244197-2h5t4h8jbc7nk3n9v7csbs6qga4o0tc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcjtvuNYQB_tfgOPrQxczpgfMqbjj9CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64858244197-2h5t4h8jbc7nk3n9v7csbs6qga4o0tc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

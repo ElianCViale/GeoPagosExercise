@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="average_font_size">17sp</dimen>
+    <dimen name="large_font_size">20sp</dimen>
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="margin_bot">24dp</dimen>
+    <dimen name="margin_left">24dp</dimen>
+    <dimen name="margin_right">24dp</dimen>
+    <dimen name="average_height">45dp</dimen>
+    <dimen name="large_height">90dp</dimen>
+    <dimen name="card_Corner_Radius">7dp</dimen>
+    <dimen name="card_Elevation">4dp</dimen>
+    <dimen name="padding">4dp</dimen>
+</resources>
